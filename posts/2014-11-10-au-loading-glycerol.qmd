@@ -1,0 +1,7 @@
+---
+title: New paper on the effect of gold loading on glycerol electrooxidation
+date: 2014-11-10
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1016/j.electacta.2014.11.186" target="_blank">paper</a> out in Electrochimica Acta on the electrocatalytic oxidation of glycerol using carbon-supported gold nanoparticles. The study looked at a wide range of gold loadings (1–20 wt% Au/C) and found that gold particle sizes remained similar across all loadings, with an average diameter of around 4.6 nm, making it possible to cleanly assess how loading alone influences catalytic performance.

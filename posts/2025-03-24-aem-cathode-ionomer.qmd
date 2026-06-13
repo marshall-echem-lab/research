@@ -1,0 +1,7 @@
+---
+title: Laura's paper on cathode ionomer selection for AEM water electrolysers
+date: 2025-03-24
+categories: [Publication]
+---
+
+Congratulations to Laura Titheridge on her <a href="https://doi.org/10.1021/acselectrochem.4c00225" target="_blank">paper</a> in ACS Electrochemistry investigating how cathode ionomer choice and content affect the performance of anion exchange membrane (AEM) water electrolysers. The study compared Sustainion, PiperION, and Nafion ionomers at a range of loadings, finding that Nafion at 20 wt% produced the most homogeneous catalyst layers and lowest overpotential. A collaborative effort with Christina Roth's group at Universität Bayreuth. Well done Laura!

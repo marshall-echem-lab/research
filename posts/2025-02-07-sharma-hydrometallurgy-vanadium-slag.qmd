@@ -1,0 +1,7 @@
+---
+title: XAS analysis helps understand vanadium recovery from slag
+date: 2025-02-07
+categories: [Publication]
+---
+
+Shailendra Sharma used his expertise on XAS to write a <a href="https://doi.org/10.1016/j.hydromet.2024.106433" target="_blank">paper</a> in Hydrometallurgy on the recovery of vanadium from industrial slag. The study investigates leaching and processing strategies for extracting vanadium from waste metallurgical residues, with relevance to domestic vanadium supply chains for flow battery applications. Great to continue collaborating with Chris Bumby on this one, along with Megan, Tanzeel, Aston and Campbell. Well done Shailendra!

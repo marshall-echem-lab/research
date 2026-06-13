@@ -1,0 +1,7 @@
+---
+title: Paper on temperature hotspots in PEM electrolysers in the Journal of The Electrochemical Society
+date: 2025-10-24
+categories: [Publication]
+---
+
+Just published	a <a href="https://doi.org/10.1149/1945-7111/ae0fe9" target="_blank">paper</a> in the Journal of The Electrochemical Society investigating temperature hotspot formation in proton exchange membrane water electrolysers. Understanding and managing local thermal gradients is critical for improving the durability and efficiency of PEM electrolysers at scale. A collaborative effort with Anie Sheela, Meng Woo, John Kennedy, and Jinging Liu. Well done Team!

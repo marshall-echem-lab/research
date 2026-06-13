@@ -1,0 +1,7 @@
+---
+title: New paper on electrochemical reduction of Si and Ti from molten slag
+date: 2021-07-05
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1149/1945-7111/ac0301" target="_blank">paper</a> out in the Journal of The Electrochemical Society, led by Samuel Martín Treceño with contributions from Tom Hughes, Nick Weaver, and collaborators Matt Watson and Catherine Bishop. The study investigates the electrochemical reduction of Si and Ti species from a molten TiO2-SiO2-Al2O3-MgO-CaO slag, building on our earlier work to better understand the reaction pathways relevant to titanium extraction via molten oxide electrolysis.

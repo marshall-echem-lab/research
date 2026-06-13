@@ -1,0 +1,7 @@
+---
+title: New paper on EIS at carbon fiber microelectrodes
+date: 2019-11-08
+categories: [Publication]
+---
+
+Congratulations to Leatham Landon-Lane on his <a href="https://doi.org/10.1016/j.elecom.2019.106566" target="_blank">paper</a> in Electrochemistry Communications, co-authored with Prof. David Harrington. The work provides the first experimental verification of the theoretical mass-transport impedance at cylindrical microelectrodes, using carbon fiber electrodes taken from a commercial carbon felt. Great work Leatham!

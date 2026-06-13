@@ -1,0 +1,7 @@
+---
+title: Sophie's paper on spatial variability of kinetics in carbon felt electrodes
+date: 2021-09-20
+categories: [Publication]
+---
+
+Congratulations to Sophie McArdle on her <a href="https://doi.org/10.1016/j.elecom.2021.107122" target="_blank">paper</a> in Electrochemistry Communications. Building on Leatham's earlier single-fibre methodology, Sophie used it to systematically probe the spatial variability of electron transfer rate constants across carbon felt electrodes. The results reveal significant non-uniformity across felt samples, which has important implications for how we understand and optimise the performance of carbon felt electrodes in redox flow batteries. Great work Sophie!

@@ -1,0 +1,7 @@
+---
+title: Hani's paper on preventing deactivation of gold CO2 reduction cathodes
+date: 2019-11-03
+categories: [Publication]
+---
+
+Another paper from Hani Taleshiahangari, this time published in <a href="https://doi.org/10.1007/s12678-019-00564-z" target="_blank">Electrocatalysis</a>. A persistent challenge in electrocatalytic CO2 reduction on gold is that cathode performance degrades over time — and this work identifies why. The culprits are trace metal impurities (Cu, Zn, and Fe) deposited from the electrolyte onto the gold surface, each affecting selectivity in different ways: Fe strongly enhances H2 production, Cu increases formate production, and Zn promotes both. To keep the gold cathode active without causing gold dissolution, the study found that periodically cycling the electrode potential between −0.5 and +0.5 V vs AgAgCl every 15 minutes during long-term electrolysis is the most effective strategy. A useful practical guide for anyone running CO2 reduction experiments.

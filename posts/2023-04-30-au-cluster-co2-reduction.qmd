@@ -1,0 +1,7 @@
+---
+title: New paper on gold cluster-based electrocatalysts for CO2 reduction
+date: 2023-04-30
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1007/s12678-023-00821-2" target="_blank">paper</a> out in Electrocatalysis on atomically precise gold cluster electrocatalysts for CO2 reduction. Shailendra Sharma led the study, which examined a series of phosphine-capped Au clusters deposited on carbon paper as cathodes for CO2-to-CO electroreduction. High CO selectivity was observed across the cluster sizes tested, providing useful insight into how cluster identity and ligand environment influence catalytic behaviour.

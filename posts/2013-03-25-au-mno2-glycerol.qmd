@@ -1,0 +1,7 @@
+---
+title: New paper on gold-MnO2 catalysts for glycerol electrooxidation
+date: 2013-03-25
+categories: [Publication]
+---
+
+Congratulations to Diandree Padayachee on her new <a href="https://doi.org/10.1016/j.electacta.2013.03.009" target="_blank">paper</a> in Electrochimica Acta. Diandree investigated the effect of adding MnO2 to a carbon-supported gold catalyst for glycerol electrooxidation. A key finding was that pre-depositing MnO2 on the carbon support stabilises the gold nanoparticles during deposition, producing smaller and more uniform particles. Catalysts with 5–9 wt% MnO2 gave the highest mass activities for glycerol oxidation. Great work!

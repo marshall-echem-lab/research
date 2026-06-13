@@ -1,0 +1,7 @@
+---
+title: New paper on Tafel slope analysis for the OER
+date: 2015-10-09
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1016/j.elecom.2015.09.019" target="_blank">paper</a> in Electrochemistry Communications on interpreting Tafel slopes for the oxygen evolution reaction. Using a full kinetic steady-state model rather than the commonly used quasi-equilibrium assumption, we show that the quasi-equilibrium approach misses certain Tafel regions that are experimentally observed on IrO2 and RuO2 anodes. A useful methodological note for anyone using Tafel analysis to probe OER mechanisms.

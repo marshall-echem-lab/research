@@ -1,1 +1,4 @@
 .quarto/
+
+# macOS
+.DS_Store

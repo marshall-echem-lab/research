@@ -1,0 +1,7 @@
+---
+title: New paper on CO2 reduction in batch and flow cells
+date: 2019-03-14
+categories: [Publication]
+---
+
+Congrats to Hani on his latest <a href="https://doi.org/10.1016/j.elecom.2019.03.005" target="_blank">paper</a> in Electrochemistry Communications. Hani, along with co-author Thibault Portail, compared the electrocatalytic reduction of CO2 to CO on gold cathodes in both batch and continuous flow electrochemical cells. A key finding was that the Faradaic efficiency for CO production reached 80–90% in the flow cell regardless of electrolyte concentration, whereas performance in the batch cell was much more sensitive to KHCO3 concentration. Nice work!

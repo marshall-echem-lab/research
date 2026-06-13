@@ -1,0 +1,7 @@
+---
+title: Asad's paper on improving DSA electrode lifetime
+date: 2019-05-07
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1149/2.0761908jes" target="_blank">paper</a> out in the Journal of The Electrochemical Society from Asad Kariman. Asad investigated whether incorporating TiO2 nanoparticles into thermally prepared IrO2 anodes — so-called dimensionally stable anodes (DSAs) — could improve their service lifetime. The results were striking: adding up to 25 wt% TiO2 nanoparticles produced a crack-free coating during thermal decomposition and boosted the electrode service lifetime by up to 10× compared to a pure IrO2 anode. A promising route to more durable electrodes for electrochemical applications!

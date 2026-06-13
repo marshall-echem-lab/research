@@ -1,0 +1,7 @@
+---
+title: Samuel's paper on electrochemistry of titanium-bearing slag for molten oxide electrolysis
+date: 2020-07-21
+categories: [Publication]
+---
+
+Congratulations to Samuel Martín Treceño on his <a href="https://doi.org/10.1016/j.electacta.2020.136619" target="_blank">paper</a> in Electrochimica Acta. Samuel used a containerless approach inside a modified thermal imaging furnace to investigate the electrochemical behaviour of TiO2-SiO2-Al2O3-MgO-CaO slags in their molten state — temperatures well above 1500°C. Combining real-time visualisation with post-mortem microscopy, the work confirmed direct production of an Ir-Ti-Si alloy and oxygen evolution during electrolysis, consistent with thermodynamic predictions from FactSage. Great to collaborate with Matt Watson and Catherine Bishop on this challenging high-temperature work, and a pleasure to work with Antoine Allanore at MIT!

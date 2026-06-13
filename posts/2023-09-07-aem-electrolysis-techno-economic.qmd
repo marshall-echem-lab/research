@@ -1,0 +1,7 @@
+---
+title: Techno-economic modelling of AEM water electrolysis
+date: 2023-09-07
+categories: [Publication]
+---
+
+Laura Titheridge started her PhD project with a <a href="https://doi.org/10.1016/j.ijhydene.2023.08.181" target="_blank">paper</a> in the International Journal of Hydrogen Energy! Laura built a techno-economic model for anion exchange membrane (AEM) water electrolysis systems, identifying an optimal current density of around 1.4 A cm⁻² that minimises the levelised cost of hydrogen, and pinpointing the technology gaps most in need of attention. A timely and practically useful contribution as AEM electrolysis moves toward commercialisation. Well done Laura!

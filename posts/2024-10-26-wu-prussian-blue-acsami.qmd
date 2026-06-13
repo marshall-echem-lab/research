@@ -1,0 +1,7 @@
+---
+title: New ACS Applied Materials & Interfaces paper
+date: 2024-10-26
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1021/acsami.4c13199" target="_blank">paper</a> in ACS Applied Materials & Interfaces on Prussian blue analogue electrode materials, featuring contributions from Shailendra Sharma, Campbell Tiffin, Laura Titheridge, and the wider international team. An exciting collaborative study on these versatile framework materials for electrochemical applications.

@@ -1,0 +1,7 @@
+---
+title: Fletcher's paper on methanotrophic biotrickling filters coupled to microbial fuel cells in CEJ
+date: 2025-07-29
+categories: [Publication]
+---
+
+Congratulations to Fletcher Gilbertson on his <a href="https://doi.org/10.1016/j.cej.2025.166497" target="_blank">paper</a> in the Chemical Engineering Journal on integrating methanotrophic biotrickling filters with microbial fuel cells. The work demonstrates simultaneous methane oxidation and electricity generation by coupling biological methane utilisation with electrochemical energy recovery — a novel approach to both methane mitigation and bioelectrochemical energy harvesting. A collaborative effort with Carol Carere and Peter Gostomski. Well done Fletcher!

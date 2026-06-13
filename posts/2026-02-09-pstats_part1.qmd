@@ -1,11 +1,8 @@
 ---
 title: How do potentiostats work - part 1?
-date: 2026-02-08
-description: potentiostats are the major critical instruments in our lab 
-categories:
-    - methods
-    - hardware
-    - teaching
+date: 2026-02-09
+description: potentiostats are the major critical instruments in our lab
+categories: [Methods, Hardware, Teaching]
 ---
 
-Potentiostats are the major critical instruments in our lab. In this post we investigate the basic concepts behind how they work. 
+Potentiostats are the major critical instruments in our lab. In this post we investigate the basic concepts behind how they work.

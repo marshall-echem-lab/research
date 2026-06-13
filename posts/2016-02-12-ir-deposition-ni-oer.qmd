@@ -1,0 +1,7 @@
+---
+title: Sophie's paper on spontaneous iridium deposition onto nickel for OER
+date: 2016-02-12
+categories: [Publication]
+---
+
+Another paper from Sophie Mellsop, this time in <a href="https://doi.org/10.1007/s12678-016-0299-9" target="_blank">Electrocatalysis</a>. Sophie investigated whether iridium can be spontaneously deposited onto nickel substrates from H2IrCl6 solution to improve oxygen evolution performance in 30% KOH. The approach works well — 45 minutes at 60°C was sufficient to significantly boost OER activity, with H2IrCl6 giving the most active and stable coating. A simple, scalable route to improved alkaline water electrolysis anodes.

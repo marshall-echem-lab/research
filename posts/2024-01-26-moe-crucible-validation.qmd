@@ -1,0 +1,7 @@
+---
+title: New paper on crucible selection and validation for molten oxide electrolysis
+date: 2024-01-26
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1007/s11663-023-02985-0" target="_blank">paper</a> in Metallurgical and Materials Transactions B, led by Kathryn Ford, on the selection and experimental validation of laboratory crucibles for molten oxide electrolysis (MOE). The work shows that thermodynamic predictions alone are insufficient — crucibles must always be validated experimentally to assess chemical compatibility with the oxide melt at temperature. The paper provides a practical framework to guide crucible selection for future MOE studies. Great to collaborate with Matt Watson and Catherine Bishop on this ongoing programme of work. I wish we had needed to cross-section one of our platinum crucibles.

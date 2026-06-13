@@ -1,0 +1,7 @@
+---
+title: Diandree's paper on gold particle size and glycerol oxidation activity
+date: 2014-01-06
+categories: [Publication]
+---
+
+Diandree Padayachee has a new <a href="https://doi.org/10.1016/j.electacta.2013.12.100" target="_blank">paper</a> out in Electrochimica Acta examining how the size of gold nanoparticles affects the electrocatalytic oxidation of glycerol. Using carbon-supported Au catalysts with gold particle sizes ranging from under 5 nm to over 43 nm, the study found that smaller particles (≤4.7 nm) gave significantly higher mass-based activities and lower onset potentials than their larger counterparts — highlighting that careful control of particle size is a key lever for optimising catalyst performance. Nice work, Diandree!

@@ -1,0 +1,7 @@
+---
+title: New paper on gas diffusion layers in PEM electrolysers
+date: 2025-05-31
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1016/j.nxener.2025.100319" target="_blank">paper</a> in Next Energy on gas diffusion layer design and performance in proton exchange membrane water electrolysers. The study examines how GDL properties influence mass transport and overall electrolyser efficiency — important considerations for scaling up PEM electrolysis for green hydrogen production. A collaborative effort with colleagues including James Metson, John Kennedy, Jae Woo, and Yucheng Liu.

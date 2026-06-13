@@ -1,0 +1,7 @@
+---
+title: New paper on mass transfer effects in CO2 reduction on copper
+date: 2017-04-17
+categories: [Publication]
+---
+
+Calvin Lim has a new <a href="https://doi.org/10.1016/j.electacta.2017.04.017" target="_blank">paper</a> out in Electrochimica Acta looking at how mass transfer affects CO2 reduction on copper. Using a rotating cylinder electrode, Calvin found that increasing the rotation rate decreases the Faradaic efficiency toward CO2 reduction products while increasing hydrogen evolution. Product selectivity also shifts from CH4 toward CO at higher rotation rates — showing that mass transfer plays a significant role in determining what you get out of a CO2 electroreduction cell.

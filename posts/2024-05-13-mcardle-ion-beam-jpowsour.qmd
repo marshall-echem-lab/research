@@ -1,0 +1,7 @@
+---
+title: Sophie's paper on ion beam modification of carbon electrodes
+date: 2024-05-13
+categories: [Publication]
+---
+
+Congratulations Sophie on her latest <a href="https://dx.doi.org/10.1016/j.jpowsour.2024.234614" target="_blank">paper</a> in Journal of Power Sources. Sophie investigated the role of defects and nitrogen doping on the redox activity for vanadium flow battery reactions, by using ion-beam implantation to modified carbon felt materials. Great work!

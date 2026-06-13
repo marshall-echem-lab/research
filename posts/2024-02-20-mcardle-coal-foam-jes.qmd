@@ -1,0 +1,7 @@
+---
+title: Coal-derived carbon foam electrodes for vanadium flow batteries
+date: 2024-02-20
+categories: [Publication]
+---
+
+Congratulations to Sophie McArdle on her <a href="https://doi.org/10.1149/1945-7111/ad2591" target="_blank">paper</a> in the Journal of The Electrochemical Society exploring coal-derived carbon foam as a low-cost electrode material for vanadium redox flow batteries. The study demonstrates that coal-derived foams can deliver competitive electrochemical performance, offering a potentially scalable route to affordable electrode materials for grid-scale energy storage. A great collaborative effort with Quang Anh Dang and Daniel Holland. Well done Sophie!

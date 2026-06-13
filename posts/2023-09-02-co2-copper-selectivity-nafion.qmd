@@ -1,0 +1,7 @@
+---
+title: Alchemy ? making copper gas diffusion electrodes behave like gold
+date: 2023-09-02
+categories: [Publication]
+---
+
+Congratulations to Alex Heenan on his <a href="https://doi.org/10.1016/j.electacta.2023.143097" target="_blank">paper</a> in Electrochimica Acta. Alex showed that the Nafion ionomer loading in a CuO catalyst ink can be used to shift the selectivity of a gas diffusion electrode dramatically — from copper-like behaviour favouring ethylene to gold-like behaviour favouring CO. The work highlights how catalyst layer formulation is a powerful and underutilised lever for controlling product selectivity in CO2 electroreduction. Well done Alex!

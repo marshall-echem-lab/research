@@ -1,0 +1,7 @@
+---
+title: Tobias's paper on electrochemical micromachining of aluminium
+date: 2017-08-04
+categories: [Publication]
+---
+
+Congratulations to Tobias Baldhoff on his <a href="https://doi.org/10.1149/2.0441709jes" target="_blank">paper</a> in the Journal of The Electrochemical Society. Tobias demonstrated through-mask electrochemical micromachining of aluminium in phosphoric acid, where micro-channels are formed via mass-transfer-limited anodic dissolution through photoresist masks. The paper discusses how applied potential, cumulative charge, and hydrodynamic conditions influence the shape evolution of the machined features, and compares the results to a diffusion-controlled shape evolution model. A nice step forward for electrochemical microfabrication. Well done Tobias!

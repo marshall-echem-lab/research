@@ -1,0 +1,7 @@
+---
+title: New paper on how OER kinetics governs electrochemical wastewater treatment
+date: 2018-06-18
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1016/j.electacta.2018.06.065" target="_blank">paper</a> in Electrochimica Acta modelling how the kinetics of the oxygen evolution reaction influences the rate of organic oxidation at electrocatalytic anodes. By fitting experimental OER polarisation curves on IrO2 to a mechanistic model, we can extract the kinetic parameters for individual steps in the OER mechanism and use these to predict the rate of parallel organic oxidation. The results give some useful guidance on what anode properties to target for better electrochemical wastewater treatment performance.

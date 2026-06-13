@@ -1,0 +1,7 @@
+---
+title: Leatham's paper on single fibre electrode measurements in carbon felt
+date: 2020-07-15
+categories: [Publication]
+---
+
+Congratulations to Leatham Landon-Lane on his new <a href="https://doi.org/10.1016/j.electacta.2020.136709" target="_blank">paper</a> in Electrochimica Acta. Carbon felt electrodes are widely used in redox flow batteries, but their complex porous structure makes it difficult to apply standard electrochemical methods to measure the kinetics at the electrode surface. Leatham and co-author Prof. Alison Downard demonstrate that isolating and measuring single fibres taken from the felt is a versatile and practical strategy for directly assessing the kinetics and identifying non-uniformities across the electrode. A neat approach that should be useful for anyone working on carbon felt electrode development. Great work Leatham!

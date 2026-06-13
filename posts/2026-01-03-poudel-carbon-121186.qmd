@@ -1,0 +1,7 @@
+---
+title: Pitambar's paper on heteroatom-doped carbons from ionic liquid precursors in Carbon
+date: 2026-01-03
+categories: [Publication]
+---
+
+Congratulations to Pitambar Poudel on his <a href="https://doi.org/10.1016/j.carbon.2025.121186" target="_blank">paper</a> in Carbon on the synthesis and characterisation of heteroatom-doped carbon materials derived from ionic liquid precursors. The study explores how ionic liquid chemistry can be exploited to engineer carbon materials with well-defined heteroatom content and electrochemically favourable surface properties. A collaborative effort with Rana Yunis, Owen Curnow, and Alison Masters. Well done Pitambar!

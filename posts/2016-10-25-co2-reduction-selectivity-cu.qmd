@@ -1,0 +1,7 @@
+---
+title: Calvin's paper on controlling CO2 reduction selectivity on copper
+date: 2016-10-25
+categories: [Publication]
+---
+
+Congratulations to Calvin Lim on his <a href="https://doi.org/10.1016/j.electacta.2016.10.141" target="_blank">paper</a> in Electrochimica Acta. Calvin showed that by periodically interrupting galvanostatic CO2 reduction on copper with short cyclic voltammetry steps or mild potentiostatic steps, it is possible to switch product selectivity away from methane and towards CO. A nice demonstration that dynamic potential control can be a useful handle for tuning the product distribution in CO2 electroreduction. Great work Calvin!

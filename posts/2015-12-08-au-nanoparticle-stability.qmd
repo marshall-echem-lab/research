@@ -1,0 +1,7 @@
+---
+title: Jared's paper on the electrochemical stability of gold nanoparticle catalysts
+date: 2015-12-08
+categories: [Publication]
+---
+
+Congratulations to Jared Steven on his <a href="https://doi.org/10.1016/j.electacta.2015.12.025" target="_blank">paper</a> in Electrochimica Acta. Jared assessed the stability of carbon-supported gold nanoparticles with different size distributions during repeated cyclic voltammetry in sulfuric acid. Gold particles of around 4.5 nm average diameter were stable over 100 cycles, while smaller particles (around 3 nm) grew during cycling due to dissolution and redeposition. The results show that restricting the upper potential limit to below the gold oxide formation region is key to maintaining stability — a practical consideration for catalyst design. Well done Jared!

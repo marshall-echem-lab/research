@@ -1,0 +1,7 @@
+---
+title: Alex's second CO2 paper this year — electrode geometry effects on selectivity
+date: 2023-09-18
+categories: [Publication]
+---
+
+Alex Heenan has another <a href="https://doi.org/10.1016/j.electacta.2023.143126" target="_blank">paper</a> out, this time in Electrochimica Acta, looking at how electrode geometry and electrolyte flow rate influence both the activity and selectivity of electrochemical CO2 reduction. The key finding is that local electrolyte pH at the electrode surface — itself a strong function of cell geometry and flow conditions — is the dominant factor controlling what products are formed. A productive year for Alex!

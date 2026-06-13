@@ -1,0 +1,7 @@
+---
+title: Glen's paper on Mo-doped BiVO4 photoelectrodes in the Journal of The Electrochemical Society
+date: 2025-08-10
+categories: [Publication]
+---
+
+Congratulations to Glen McClea on his <a href="https://doi.org/10.1149/1945-7111/adf46b" target="_blank">paper</a> in the Journal of The Electrochemical Society on molybdenum-doped bismuth vanadate (BiVO<sub>4</sub>) photoelectrodes for solar-driven water splitting. The study examines how Mo doping influences the photoelectrochemical performance of BiVO<sub>4</sub>, an important visible-light-absorbing photoanode material for photoelectrochemical hydrogen production. A great collaboration with John Kennedy. Well done Glen!

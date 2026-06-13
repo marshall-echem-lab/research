@@ -1,0 +1,7 @@
+---
+title: Samuel's paper on direct use of ironmaking slag as a molten oxide electrolyte
+date: 2021-05-08
+categories: [Publication]
+---
+
+Congratulations to Samuel Martín Treceño on his <a href="https://doi.org/10.1007/s11837-021-04681-3" target="_blank">paper</a> in JOM. This work assesses the thermochemical and electrical behaviour of ironmaking slag produced from titanomagnetite concentrates at tapping temperature, combining electrochemical measurements with FactSage thermodynamic calculations to evaluate whether the slag can be used directly as a molten oxide electrolyte without pre-processing. Great to again collaborate with Matt Watson, Catherine Bishop, and Antoine Allanore at MIT on this work!

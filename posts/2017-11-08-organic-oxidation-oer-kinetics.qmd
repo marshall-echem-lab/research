@@ -1,0 +1,7 @@
+---
+title: Asad's paper on organic oxidation kinetics at active anodes
+date: 2017-11-08
+categories: [Publication]
+---
+
+Congratulations to Asad Kariman on his <a href="https://doi.org/10.1007/s12678-017-0417-3" target="_blank">paper</a> in Electrocatalysis. Asad investigated the mechanism and kinetics of organic oxidation occurring in parallel with the oxygen evolution reaction at an active IrO2-Sb2O5-SnO2/Ti anode, using 4-nitrophenol as a model compound. The study provides insight into how organic species are oxidised via surface-bound oxygen intermediates and how the OER and organic oxidation pathways compete — directly relevant to electrochemical wastewater treatment applications.

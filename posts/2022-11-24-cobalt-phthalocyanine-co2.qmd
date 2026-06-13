@@ -1,0 +1,7 @@
+---
+title: Johan's paper on cobalt phthalocyanine catalysts for CO2 electroreduction
+date: 2022-11-24
+categories: [Publication]
+---
+
+Congratulations to Johan Hamonnet on his <a href="https://doi.org/10.1021/acscatal.2c03929" target="_blank">paper</a> in ACS Catalysis. Johan investigated materials based on cobalt phthalocyanine supported on carbon black and pyrolysed at various temperatures under argon, assessing them for electrocatalytic CO2 reduction. The study finds that high activity toward CO production (Faradaic efficiencies above 85%) is maintained up to pyrolysis temperatures of 700°C, helping to clarify the nature of the active sites and how they evolve with thermal treatment. A nice piece of collaborative work with colleagues from UC, the Australian Synchrotron and University of Otago.

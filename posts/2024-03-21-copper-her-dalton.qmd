@@ -1,0 +1,7 @@
+---
+title: New paper on a copper molecular electrocatalyst for hydrogen evolution
+date: 2024-03-21
+categories: [Publication]
+---
+
+We have a new <a href="https://doi.org/10.1039/D4DT00224E" target="_blank">paper</a> in Dalton Transactions on a copper complex that forms an active and stable electrocatalyst for hydrogen evolution in neutral water. The work was led by Abdullah Abudayyeh from Sally Brooker's group at  the University of Otago. This paper shows that a square planar Cu(II) complex deposits a catalytically active copper/copper oxide film on the electrode surface during electrolysis.

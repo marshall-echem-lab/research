@@ -1,0 +1,7 @@
+---
+title: Zain's review paper on sustainable lithium-ion battery recycling
+date: 2021-03-25
+categories: [Publication]
+---
+
+Congratulations to Zain Kader on his <a href="https://doi.org/10.1007/s42247-021-00201-w" target="_blank">review paper</a> in Emergent Materials. With electric vehicle production growing rapidly, the question of what to do with end-of-life lithium-ion batteries is becoming increasingly urgent. Zain's review covers the landscape of sustainable recycling technologies — from pyrometallurgical and hydrometallurgical approaches through to direct recycling — assessing their current capabilities and the path toward a circular economy for lithium-ion batteries. A timely and well-rounded piece of work!

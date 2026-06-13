@@ -1,0 +1,7 @@
+---
+title: Danish's paper on bioelectrochemical denitrification in Journal of Water Process Engineering
+date: 2025-10-24
+categories: [Publication]
+---
+
+Congratulations to Danish Laidin on his <a href="https://doi.org/10.1016/j.jwpe.2025.108923" target="_blank">paper</a> in the Journal of Water Process Engineering on bioelectrochemical denitrification. The work explores electrochemically-assisted biological systems for nitrogen removal from wastewater, combining electrochemistry and microbiology for improved nutrient management. A collaborative study with Peter Gostomski and Carol Carere. Well done Danish!
