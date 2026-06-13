@@ -1,9 +1,9 @@
 ---
-title: Posts
+title: News
 listing:
   contents: posts/*.qmd
   sort: "date desc"
   categories: true
   include:
-    categories: [hardware, methods, calculations, teaching]
+    categories: [new-paper, new-member, graduation, award, media]
 ---

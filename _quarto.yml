@@ -17,6 +17,8 @@ website:
       - href: members.qmd
         text: Members
       - href: posts.qmd
+        text: Posts
+      - href: news.qmd
         text: News
 
   page-footer:
