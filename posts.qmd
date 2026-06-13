@@ -1,0 +1,7 @@
+---
+title: Posts
+listing:
+  contents: posts/*.qmd
+  sort: "date desc"
+  categories: true
+---

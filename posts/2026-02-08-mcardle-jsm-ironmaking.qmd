@@ -1,0 +1,8 @@
+---
+title: Josh's paper on waste iron residues for hydrogen-based ironmaking in Journal of Sustainable Metallurgy
+date: 2026-02-08
+categories:
+    - News
+---
+
+Congratulations to Josh McArdle on his <a href="https://doi.org/10.1007/s40831-025-01372-0" target="_blank">paper</a> in the Journal of Sustainable Metallurgy on using waste iron residues as feedstocks for hydrogen-based direct reduction ironmaking. The study evaluates the suitability of low-grade iron-containing wastes for green ironmaking routes that replace coking coal with hydrogen, contributing to the decarbonisation of the steel industry. Great to continue collaborating with both Chris Bumby and Matt Watson on this exciting work. Well done Josh!

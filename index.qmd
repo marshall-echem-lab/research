@@ -1,0 +1,35 @@
+---
+title: "Marshall Electrochemical Engineering Lab"
+---
+
+# Welcome
+
+Welcome to the Marshall Electrochemical Engineering Lab.
+
+Our research focuses on electrochemical engineering and its application to sustainable technologies, resource recovery, advanced materials, and energy systems.
+
+## Research Themes
+
+### Electrochemical Engineering
+
+Fundamental and applied electrochemical systems.
+
+### Hydrometallurgy and Critical Minerals
+
+Metal extraction, refining, and resource recovery.
+
+### Batteries and Energy Storage
+
+Electrochemical energy conversion and storage technologies.
+
+### Materials and Process Engineering
+
+Advanced materials, process intensification, and industrial applications.
+
+## Latest News
+
+See the [News](news.qmd) page for recent updates.
+
+## Join Us
+
+Information on student projects, collaborations, and opportunities will be posted here.
