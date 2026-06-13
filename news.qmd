@@ -5,5 +5,5 @@ listing:
   sort: "date desc"
   categories: true
   include:
-    categories: [new-paper, new-member, graduation, award, media]
+    categories: [Publication, People, Graduation, Award, Media]
 ---
