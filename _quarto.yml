@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Marshall Electrochemical Engineering Lab"
+  site-url: https://marshall-echem-lab.github.io/research/
 
   navbar:
     left:
@@ -24,4 +26,4 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
+    toc: false
