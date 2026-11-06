@@ -24,6 +24,9 @@ jobs:
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Generate publications page
+        run: python3 scripts/generate-publications.py
+
       - name: Render site
         run: quarto render
 
