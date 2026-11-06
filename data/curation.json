@@ -1,0 +1,53 @@
+{
+  "_readme": "Manual decisions for build_bib.py. Matched by OpenAlex ID (W...) or DOI; reject_titles for records with neither.",
+  "reject": [
+    "W3213113072",
+    "W1204037442",
+    "W2088053192",
+    "W2090675380",
+    "W4387896445",
+    "W2644863031",
+    "W2734591847"
+  ],
+  "reject_titles": [
+    "The thermodynamics of single molecule stretching of polysaccharides: Implications for elastic tissues",
+    "Release of gold nanoparticles from phytomined biomass by enzymatic digestion",
+    "Hydrogen production by advanced PEM water electrolysers - Reduced energy consumption by improved electrocatalysis"
+  ],
+  "override": {
+    "10.64628/aa.qk76mpwqm": {
+      "category": "outreach",
+      "venue": "The Conversation"
+    },
+    "W414061486": {
+      "venue": "Norwegian University of Science and Technology (NTNU)"
+    },
+    "W2942813387": {
+      "venue": "Massey University"
+    },
+    "W2556660248": {
+      "category": "journal",
+      "venue": "Journal of New Materials for Electrochemical Systems",
+      "number": "3"
+    },
+    "W3196817272": {
+      "category": "conference-abstract"
+    },
+    "W3195765180": {
+      "category": "conference-abstract"
+    },
+    "W2258536063": {
+      "category": "conference-abstract"
+    },
+    "W2564994010": {
+      "category": "conference-abstract"
+    },
+    "W2592086299": {
+      "category": "conference-abstract"
+    },
+    "W2916889041": {
+      "category": "conference-paper",
+      "venue": "Chemeca 2018"
+    }
+  }
+}
