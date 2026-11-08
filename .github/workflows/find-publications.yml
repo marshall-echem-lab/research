@@ -1,0 +1,32 @@
+name: Find New Publications
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"    # Sundays 18:00 UTC = Monday morning in NZ
+  workflow_dispatch:         # "Run workflow" button in the Actions tab
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  find:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      PUB_MAILTO: your.email@canterbury.ac.nz   # contact address sent to OpenAlex/Crossref
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make sure the labels exist
+        run: |
+          gh label create publication-candidate --color 1D76DB --description "Proposed new publication" --force
+          gh label create approved --color 0E8A16 --description "Add to publications.bib" --force
+          gh label create rejected --color B60205 --description "Don't include; never propose again" --force
+
+      - name: List issues already proposed
+        run: gh issue list --label publication-candidate --state all --json body --limit 1000 > issues.json
+
+      - name: Look for new publications
+        run: python3 scripts/find-new-publications.py issues.json
