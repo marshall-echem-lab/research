@@ -1,0 +1,64 @@
+name: Apply Publication Decision
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: publication-decision     # one at a time, so quick approvals don't collide
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    if: >-
+      (github.event.label.name == 'approved' || github.event.label.name == 'rejected') &&
+      contains(github.event.issue.labels.*.name, 'publication-candidate')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Apply decision
+        run: python3 scripts/apply-publication-decision.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/publications.bib data/curation.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Publication ${{ github.event.label.name }} (issue #$ISSUE)"
+          git pull --rebase
+          git push
+
+      # Pushes made by this workflow don't trigger publish.yml on their own,
+      # so start it explicitly after an approval.
+      - name: Rebuild the site
+        if: github.event.label.name == 'approved'
+        run: gh workflow run publish.yml
+
+      - name: Comment and close the issue
+        if: success()
+        run: |
+          gh issue comment "$ISSUE" --body-file decision.txt
+          gh issue close "$ISSUE"
+
+      - name: Report a problem
+        if: failure()
+        run: |
+          if [ -f decision.txt ]; then
+            gh issue comment "$ISSUE" --body-file decision.txt
+          else
+            gh issue comment "$ISSUE" --body "Something went wrong applying this decision. See the Actions tab for details."
+          fi
